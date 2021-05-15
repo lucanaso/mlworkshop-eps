@@ -8,12 +8,12 @@ Questo documento descrive schematicamente il contenuto del workshop, tenutosi in
 ## Agenda
 Il workshop alterna parti di lezioni teoriche con slide, a parti di pratica con codice scritto dal vivo, secondo il seguente programma:
 
-1. Introduzione al ML (slides)
-2. Creazione del Dataset in Python (codice)
-3. Problemi di Regressione (slides e codice)
-4. Valutazione dei Modelli (slides e codice)
-5. Problemi di Classificazione (codice)
-6. Problemi non-supervisionati (codice)
+1. [Introduzione al ML](#1-introduzione-al-ml-slides) (slides)
+2. [Creazione del Dataset in Pytho](#2-dataset-creation-in-python-codice) (codice)
+3. [Problemi di Regressione](#3-problemi-di-regressione) (slides e codice)
+4. [Valutazione dei Modelli](4-valutazione-dei-modelli) (slides e codice)
+5. [Problemi di Classificazione](5-problemi-di-classificazione) (codice)
+6. [Problemi di Clustering](6-problemi-ci-clustering) (codice)
 
 ## 1. Introduzione al ML (slides)
 1. Definizione
@@ -92,7 +92,7 @@ Le slide sono comunque presenti nella presentazione (83-84).
 
 Il codice è inserito nel file [full_code.py](https://github.com/lucanaso/mlworkshop-eps/blob/master/code/full_code.py#L413-L451) (al 15/05/2021, 2o commit, vedi le righe 413-451).
 
-## 6. Problemi ci Clustering
+## 6. Problemi di Clustering
 Non trattato durante il workshop.
 
 Le slide sono comunque presenti nella presentazione (85-86).
