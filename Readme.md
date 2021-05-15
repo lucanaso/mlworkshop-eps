@@ -13,7 +13,7 @@ Il workshop alterna parti di lezioni teoriche con slide, a parti di pratica con 
 3. [Problemi di Regressione](#3-problemi-di-regressione) (slides e codice)
 4. [Valutazione dei Modelli](#4-valutazione-dei-modelli) (slides e codice)
 5. [Problemi di Classificazione](#5-problemi-di-classificazione) (codice)
-6. [Problemi di Clustering](#6-problemi-ci-clustering) (codice)
+6. [Problemi di Clustering](#6-problemi-di-clustering) (codice)
 
 ## 1. Introduzione al ML (slides)
 1. Definizione
