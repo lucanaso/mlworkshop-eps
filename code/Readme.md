@@ -1,12 +1,12 @@
 # Workshop introduttivo sul Machine Learning, in Python
-di Luca Naso, organizzato da EPS Young Minds Catania, 8 e 15 maggio 2021
+###### *di Luca Naso, organizzato da EPS Young Minds Catania*
 
-Questo documento descrive schematicamente il contenuto del workshop.
+Questo documento descrive schematicamente il contenuto del workshop, tenutosi in 2 giornate l'8 ed il 15 maggio 2021.
 - Il **codice** relativo al workshop è presente in questo stesso [repository](https://github.com/lucanaso/mlworkshop-eps/tree/master/code): github.com/lucanaso/mlworkshop-eps/tree/master/code
 - Le **slides** sono invece disponibili su slideshare a questo [link](https://www.slideshare.net/LucaNaso/workshop-introduttivo-al-machine-learning-in-python): www.slideshare.net/LucaNaso/workshop-introduttivo-al-machine-learning-in-python.
 
 ## Agenda
-Il workshop alterna parti di lezioni teoriche con slide a parti di pratica con codice scritto dal vivo, secondo il programma seguente:
+Il workshop alterna parti di lezioni teoriche con slide, a parti di pratica con codice scritto dal vivo, secondo il seguente programma:
 
 1. Introduzione al ML (slides)
 2. Creazione del Dataset in Python (codice)
@@ -14,7 +14,6 @@ Il workshop alterna parti di lezioni teoriche con slide a parti di pratica con c
 4. Valutazione dei Modelli (slides e codice)
 5. Problemi di Classificazione (codice)
 6. Problemi non-supervisionati (codice)
-
 
 ## 1. Introduzione al ML (slides)
 1. Definizione
@@ -37,8 +36,8 @@ Vedi la presentazione (dall'inizio fino alla slide 47).
 4. I dati sono poi riportati in un grafico scatterplot (X, y).
 
 Si usano:
-- numpy.random per la generazione del dataset 
-- matplotlib.pyplot per il grafico
+- *numpy.random* per la generazione del dataset 
+- *matplotlib.pyplot* per il grafico
   
 Vedi il codice al file [live_coding_2021_05_08.py](https://github.com/lucanaso/mlworkshop-eps/blob/master/code/live_coding_2021_05_08.py)
 
@@ -52,7 +51,7 @@ Per le slide:
 Vedi presentazione (slide 50 -> 62)
 
 Per il codice:
-1. Creazione dell'oggetto
+1. Creazione dell'oggetto *LinearRegression* (classe di *sklearn.linear_model*)
 2. Uso del metodo fit
 3. Uso del metodo predict
 4. Confronto dei coefficenti del modello con quelli della sorgente dei dati
@@ -61,9 +60,9 @@ Vedi codice al file [live_coding_2021_05_15.py](https://github.com/lucanaso/mlwo
 
 
 ### 3.2 Multiple Linear Regression - MLR
-Stesso percorso della SLR
+Seguiamo lo stesso percorso della SLR.
 
-Vedi presentazione (slide 63 -> 69)
+Vedi presentazione (slide 63 -> 69).
 
 Vedi codice al file [live_coding_2021_05_15.py](https://github.com/lucanaso/mlworkshop-eps/blob/master/code/live_coding_2021_05_15.py#L62-L133) (al 15/05/2021, 2o commit, vedi le righe 62-133).
 
@@ -77,7 +76,7 @@ Per le slide:
 Vedi presentazione (slide 63 -> 69)
 
 Per il codice:
-1. Usiamo cross_validate da sklearn.model_selection
+1. Usiamo *cross_validate* da *sklearn.model_selection*
 2. Impostiamo 5 fold (K = 5)
 3. e scegliamo come metrica l'MSE (score='neg_mean_squared_error')
 
@@ -93,7 +92,7 @@ Le slide sono comunque presenti nella presentazione (83-84).
 
 Il codice è inserito nel file [full_code.py](https://github.com/lucanaso/mlworkshop-eps/blob/master/code/full_code.py#L413-L451) (al 15/05/2021, 2o commit, vedi le righe 413-451).
 
-## 6. Problemi non-supervisionati
+## 6. Problemi ci Clustering
 Non trattato durante il workshop.
 
 Le slide sono comunque presenti nella presentazione (85-86).
