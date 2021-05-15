@@ -84,20 +84,20 @@ Per il codice:
 
 Vedi codice al file [live_coding_2021_05_15.py](https://github.com/lucanaso/mlworkshop-eps/blob/master/code/live_coding_2021_05_15.py#L134-L143) (al 15/05/2021, 2o commit, vedi le righe 134-143).
 
-Vedi anche il file [live_coding_2021_05_15.py](https://github.com/lucanaso/mlworkshop-eps/blob/master/code/full_code.py#L289-L411) (al 15/05/2021, 2o commit, vedi le righe 289-411).
+Vedi anche il file [full_code.py](https://github.com/lucanaso/mlworkshop-eps/blob/master/code/full_code.py#L289-L411) (al 15/05/2021, 2o commit, vedi le righe 289-411).
 
 ## 5. Problemi di Classificazione
 Non trattato durante il workshop.
 
 Le slide sono comunque presenti nella presentazione (83-84). 
 
-Il codice è inserito nel file [live_coding_2021_05_15.py](https://github.com/lucanaso/mlworkshop-eps/blob/master/code/full_code.py#L413-L451) (al 15/05/2021, 2o commit, vedi le righe 413-451).
+Il codice è inserito nel file [full_code.py](https://github.com/lucanaso/mlworkshop-eps/blob/master/code/full_code.py#L413-L451) (al 15/05/2021, 2o commit, vedi le righe 413-451).
 
 ## 6. Problemi non-supervisionati
 Non trattato durante il workshop.
 
 Le slide sono comunque presenti nella presentazione (85-86).
 
-Il codice è inserito nel file [live_coding_2021_05_15.py](https://github.com/lucanaso/mlworkshop-eps/blob/master/code/full_code.py#L453-L532) (al 15/05/2021, 2o commit, vedi le righe 453-532).
+Il codice è inserito nel file [full_code.py](https://github.com/lucanaso/mlworkshop-eps/blob/master/code/full_code.py#L453-L532) (al 15/05/2021, 2o commit, vedi le righe 453-532).
 
 
